@@ -1,8 +1,9 @@
 {
     "name": "arkanius/l5-s3-uploader",
     "description": "A simple package to simplify upload to s3",
+    "keywords": ["upload", "s3"],
     "require": {
-        "php": "5.5",
+        "php": ">=5.5",
         "league/flysystem-aws-s3-v3": "^1.0"
     },
     "require-dev": {
