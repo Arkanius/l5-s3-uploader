@@ -19,7 +19,7 @@
     "autoload": {
         "psr-4": {
             "App\\": "app/",
-            "Arkanius\\s3Uploader\\": "packages/arkanius/l5-s3-uploader/src"
+            "Arkanius\\s3Uploader\\": "arkanius/l5-s3-uploader/src"
         }
     }
 }
